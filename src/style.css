@@ -1,0 +1,25 @@
+.breed-select {
+  align-items: center;
+  margin: 30px;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.loader {
+  margin: 30px;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.error {
+  margin: 30px;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.cat-info {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
